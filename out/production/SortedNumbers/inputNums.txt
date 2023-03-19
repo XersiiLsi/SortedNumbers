@@ -1,0 +1,7 @@
+Why did we have only 32 or 64 bit system?
+Do4a / Pala4 / Redu66ed / 4th / 242 :)
+Types:
+	Byte = min value -128 , max value 127 ;
+	Short = min value -32000 , max value 32000 (it always not null) / sorry dont remember 
+	Integer = Most using type, use 32 bit memory
+	
